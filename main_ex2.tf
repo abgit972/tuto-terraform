@@ -1,6 +1,3 @@
-//
-// terraform - ex 1 : add host entry  
-// 
 variable "str" {
 	type = string
 	default = "127.0.0.1 gitlab.test"
