@@ -1,4 +1,4 @@
-// exercice 1 : 
+//
 // terraform - ex 1 : add host entry  
 // 
 variable "str" {
